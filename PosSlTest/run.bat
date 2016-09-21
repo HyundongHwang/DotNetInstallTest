@@ -1,0 +1,1 @@
+start " " "%ProgramFiles%\Microsoft Silverlight\sllauncher.exe" /emulate:"PosSlTest.xap" /origin:"http://localhost" /overwrite
